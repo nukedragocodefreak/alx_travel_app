@@ -1,0 +1,7 @@
+Requirements
+To successfully complete this milestone, ensure you meet the following prerequisites:
+
+Familiarity with Django and Django REST Framework.
+Knowledge of MySQL and database management.
+Understanding of version control using Git.
+A basic grasp of environment variable management using django-environ.
